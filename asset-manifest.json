@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecommerce-myntra-frontend/static/css/main.53436cca.css",
+    "main.js": "/ecommerce-myntra-frontend/static/js/main.6227a512.js",
+    "index.html": "/ecommerce-myntra-frontend/index.html",
+    "main.53436cca.css.map": "/ecommerce-myntra-frontend/static/css/main.53436cca.css.map",
+    "main.6227a512.js.map": "/ecommerce-myntra-frontend/static/js/main.6227a512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53436cca.css",
+    "static/js/main.6227a512.js"
+  ]
+}
